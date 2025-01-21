@@ -11,4 +11,4 @@ Além disso, busca-se capacitar os alunos a identificar, compreender e interagir
 ## Formulário de Atividades
 
 [**Clique aqui para acessar o formulário de atividades da aula.**](#)  
-*(https://forms.gle/BzgNFip1kJvDGMyGA)*
+*([Insira o link do formulário aqui](https://forms.gle/BzgNFip1kJvDGMyGA))*
