@@ -1,0 +1,54 @@
+<!-- Instalar a biblioteca npm install crypto-js
+-->
+
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exemplo de Criptografia</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.9-1-crypto-js.min.js"></script>
+</head>
+<body>
+    <h1>Criptografia e Descriptografia com AES</h1>
+    
+    <label for="message">Mensagem:</label>
+    <input type="text" id="message" placeholder="Digite uma mensagem">
+    
+    <label for="key">Chave Secreta:</label>
+    <input type="text" id="key" placeholder="Digite uma chave secreta">
+    
+    <button onclick="encryptMessage()">Encriptar</button>
+    <button onclick="decryptMessage()">Desencriptar</button>
+    
+    <p><strong>Mensagem Encriptada:</strong> <span id="encryptedMessage"></span></p>
+    <p><strong>Mensagem Desencriptada:</strong> <span id="decryptedMessage"></span></p>
+    
+    <script>
+        function encryptMessage() {
+            const message = document.getElementById("message").value;
+            const key = document.getElementById("key").value;
+            
+            if (message && key) {
+                const encrypted = CryptoJS.AES.encrypt(message, key).toString();
+                document.getElementById("encryptedMessage").textContent = encrypted;
+            } else {
+                alert("Por favor, forneça uma mensagem e uma chave secreta.");
+            }
+        }
+
+        function decryptMessage() {
+            const encryptedMessage = document.getElementById("encryptedMessage").textContent;
+            const key = document.getElementById("key").value;
+
+            if (encryptedMessage && key) {
+                const bytes = CryptoJS.AES.decrypt(encryptedMessage, key);
+                const decrypted = bytes.toString(CryptoJS.enc.Utf8);
+                document.getElementById("decryptedMessage").textContent = decrypted;
+            } else {
+                alert("Por favor, encripte uma mensagem antes de tentar desencriptar.");
+            }
+        }
+    </script>
+</body>
+</html>
