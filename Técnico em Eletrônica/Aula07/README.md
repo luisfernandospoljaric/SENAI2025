@@ -55,3 +55,6 @@ Um joalheiro possui 9 pérolas e uma balançã do tipo prato de dois pratos. Tod
 
 7 - Faça um Programa que leia um número e exiba o dia correspondente da semana. (1-Domingo, 2- Segunda, etc.), se digitar outro valor deve aparecer valor inválido.
 
+# Fomulário para entrega + Desafio
+https://forms.gle/Qqq4bikeJ78wpoNX7
+
