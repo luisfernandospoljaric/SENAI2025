@@ -40,33 +40,33 @@ Um joalheiro possui 9 pérolas e uma balançã do tipo prato de dois pratos. Tod
 
 
 # EXERCICIOS
-## 1
+##	EXERCICIO 1
  Faça um Programa que leia três números e mostre-os em ordem decrescente.
 
-## 2 
+##	EXERCICIO 2 
 Faça um Programa que peça os 3 lados de um triângulo. O programa deverá informar se os valores podem ser um triângulo. Indique, caso os lados formem um triângulo, se o mesmo é: equilátero, isósceles ou escaleno.
 
 Dicas: Três lados formam um triângulo quando a soma de quaisquer dois lados for maior que o terceiro; Triângulo Equilátero: três lados iguais; Triângulo Isósceles: quaisquer dois lados iguais; Triângulo Escaleno: três lados diferentes;
 
-## 3
+##	EXERCICIO 3
  Faça um Programa que peça um número inteiro e determine se ele é par ou impar. Dica: utilize o operador módulo (resto da divisão).
 
-## 4 
+##	EXERCICIO 4 
 Faça um Programa que leia 2 números e em seguida pergunte ao usuário qual operação ele deseja realizar.
 
 O resultado da operação deve ser acompanhado de uma frase que diga se o número é: par ou ímpar; positivo ou negativo; inteiro ou decimal
 
-## 5
+## 	EXERCICIO 5
  Faça um programa que faça 5 perguntas para uma pessoa sobre um crime. As perguntas são: "Telefonou para a vítima?" "Esteve no local do crime?" "Mora perto da vítima?" "Devia para a vítima?" "Já trabalhou com a vítima?"
 
 O programa deve no final emitir uma classificação sobre a participação da pessoa no crime.
 
 Se a pessoa responder positivamente a 2 questões ela deve ser classificada como "Suspeita", entre 3 e 4 como "Cúmplice" e 5 como "Assassino". Caso contrário, ele será classificado como "Inocente". 
 
-## 6 
+## 	EXERCICIO 6 
 Faça um programa para a leitura de duas notas parciais de um aluno. O programa deve calcular a média alcançada por aluno e apresentar: A mensagem "Aprovado", se a média alcançada for maior ou igual a sete; A mensagem "Reprovado", se a média for menor do que sete; A mensagem "Aprovado com Distinção", se a média for igual a dez.
 
-## 7 
+##	EXERCICIO 7 
 
 Faça um Programa para um caixa eletrônico.
 
@@ -80,7 +80,7 @@ Exemplo 1: Para sacar a quantia de 256 reais, o programa fornece duas notas de 1
 
 Exemplo 2: Para sacar a quantia de 399 reais, o programa fornece três notas de 100, uma nota de 50, quatro notas de 10, uma nota de 5 e quatro notas de 1.
 
-## 8
+##	EXERCICIO 8
 Um posto está vendendo combustíveis com a seguinte tabela de descontos: Álcool: até 20 litros, desconto de 3% por litro acima de 20 litros, desconto de 5% por litro Gasolina: até 20 litros, desconto de 4% por litro acima de 20 litros, desconto de 6% por litro
 
 Escreva um algoritmo que leia o número de litros vendidos, o tipo de combustível (codificado da seguinte forma: A-álcool, G-gasolina), calcule e imprima o valor a ser pago pelo cliente sabendo-se que o preço do litro da gasolina é R$ 2,50 o preço do litro do álcool é R$ 1,90.
