@@ -41,6 +41,10 @@ Faça uma presentação no Power Point e apresente.
 - Resumo dos principais pontos abordados
 - Reflexão sobre a importância da Indústria 4.0 para o futuro
 
+## Enviar trabalho para: 
+luis.spoljaric@sp.senai.br
+
 ## Apresentação no Power Point ou Canva
 # Prova dia 24/03
 # Apresentações para o dia 31/03
+
