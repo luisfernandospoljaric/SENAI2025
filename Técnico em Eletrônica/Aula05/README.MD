@@ -17,4 +17,26 @@ Faço um estudo sobre os dispositivos de IoT que ela utiliza e suas funções.
 
 Faça uma presentação no Power Point e apresente.
 
+## Tópicos a serem falados
+1. Introdução à Indústria 4.0
+- Principais tecnologias envolvidas (IoT, Big Data, Inteligência Artificial, Robótica, etc.)
+- Impactos na economia e no mercado de trabalho 
 
+2. Escolha da Indústria
+- Nome da empresa e setor de atuação
+- Breve histórico da empresa
+
+3. Aplicação da Indústria 4.0 na Empresa
+- Tecnologias utilizadas (automação, machine learning, sensores inteligentes, digital twins, etc.)
+- Como essas tecnologias otimizam a produção e reduzem custos
+- Exemplos de inovação dentro da empresa
+- Citar os dispositivos utilizados pela industria (sensores, controladores...)
+
+4. Impactos e Benefícios
+- Aumento da eficiência e produtividade
+- Redução de desperdícios e impactos ambientais
+- Melhor experiência para o consumidor
+
+5. Conclusão
+- Resumo dos principais pontos abordados
+- Reflexão sobre a importância da Indústria 4.0 para o futuro

@@ -88,3 +88,290 @@ Escreva um algoritmo que leia o número de litros vendidos, o tipo de combustív
 # Fomulário para entrega + Desafio
 
 https://forms.gle/bk5CeJSbCCFUqUDR9
+
+
+-------------------------------------------------------------------------------------
+## Resposta.1
+
+Algoritmo "Ordena_Tres_Numeros"
+Var
+    numero1, numero2, numero3: Real
+Inicio
+    Escreva("Digite um numero: ")
+    Leia(numero1)
+    Escreva("Digite outro numero: ")
+    Leia(numero2)
+    Escreva("Digite mais um numero: ")
+    Leia(numero3)
+
+    Se (numero1 > numero2) e (numero2 > numero3) Entao
+        Escreva(numero1, " ", numero2, " ", numero3)
+    Senao
+    Se (numero1 > numero3) e (numero3 > numero2) Entao
+        Escreva(numero1, " ", numero3, " ", numero2)
+    Senao
+    Se (numero2 > numero1) e (numero1 > numero3) Entao
+        Escreva(numero2, " ", numero1, " ", numero3)
+    Senao
+    Se (numero2 > numero3) e (numero3 > numero1) Entao
+        Escreva(numero2, " ", numero3, " ", numero1)
+    Senao
+    Se (numero3 > numero1) e (numero1 > numero2) Entao
+        Escreva(numero3, " ", numero1, " ", numero2)
+    Senao
+        Escreva(numero3, " ", numero2, " ", numero1)
+    FimSe
+    Fimse
+    Fimse
+    Fimse
+    FimSe
+
+
+## Resposta.2
+
+Var
+    lado1, lado2, lado3: Real
+Inicio
+    Escreva("Digite o primeiro lado do triângulo: ")
+    Leia(lado1)
+    Escreva("Digite o segundo lado do triângulo: ")
+    Leia(lado2)
+    Escreva("Digite o terceiro lado do triângulo: ")
+    Leia(lado3)
+
+Se (lado1 + lado2 > lado3) e (lado1 + lado3 > lado2) e (lado2 + lado3 > lado1) Entao
+   Se (lado1 = lado2) e (lado2 = lado3) Entao
+            Escreva("É um triângulo equilátero!")
+   Senao
+        Se (lado1 = lado2) ou (lado1 = lado3) ou (lado2 = lado3) Entao
+            Escreva("É um triângulo isósceles!")
+        Senao
+            Escreva("É um triângulo escaleno!")
+        FimSe
+   fimse
+Senao
+        Escreva("Não é um triângulo!")
+FimSe
+
+
+## Resposta.3
+
+Algoritmo "Par_ou_Impar"
+Var
+    numero: Inteiro
+Inicio
+    Escreva("Digite um número inteiro: ")
+    Leia(numero)
+
+    Se (numero Mod 2 = 0) Entao
+        Escreva("Par")
+    Senao
+        Escreva("Ímpar")
+    FimSe
+Fimalgoritmo
+
+
+## Resposta.4
+
+Algoritmo "Calculadora_Paridade_Sinal_Tipo"
+Var
+    numero1, numero2, resultado: Real
+    op: Caractere
+Inicio
+    Escreva("Digite um número: ")
+    Leia(numero1)
+    Escreva("Digite outro número: ")
+    Leia(numero2)
+    Escreva("Digite qual operação (+, -, * ou /) deseja realizar: ")
+    Leia(op)
+
+    Se (op = '+') Entao
+        resultado <- numero1 + numero2
+    Senao Se (op = '-') Entao
+        resultado <- numero1 - numero2
+    Senao Se (op = '*') Entao
+        resultado <- numero1 * numero2
+    Senao Se (op = '/') Entao
+        Se numero2 <> 0 Entao
+            resultado <- numero1 / numero2
+        Senao
+            Escreva("Erro: divisão por zero!")
+            Pare
+        FimSe
+    Senao
+        Escreva("Operação inválida!")
+        Pare
+    FimSe
+
+    Escreva("O resultado é: ", resultado, "\n")
+
+    Se (Resultado Mod 2 = 0) Entao
+        Escreva("Par")
+    Senao
+        Escreva("Ímpar")
+    FimSe
+
+    Se (resultado >= 0) Entao
+        Escreva("\nPositivo")
+    Senao
+        Escreva("\nNegativo")
+    FimSe
+
+    Se (resultado = Trunc(resultado)) Entao
+        Escreva("\nInteiro")
+    Senao
+        Escreva("\nDecimal")
+    FimSe
+
+Fimalgoritmo
+
+
+## Resposta.5
+
+Algoritmo "Classificacao_Crime"
+Var
+    resposta: Caractere
+    positivos: Inteiro
+Inicio
+    positivos <- 0
+
+    Escreva("Telefonou para a vítima? (S ou N): ")
+    Leia(resposta)
+    Se (resposta = 'S') ou (resposta = 's') Entao
+        positivos <- positivos + 1
+    FimSe
+
+    Escreva("Esteve no local do crime? (S ou N): ")
+    Leia(resposta)
+    Se (resposta = 'S') ou (resposta = 's') Entao
+        positivos <- positivos + 1
+    FimSe
+
+    Escreva("Mora perto da vítima? (S ou N): ")
+    Leia(resposta)
+    Se (resposta = 'S') ou (resposta = 's') Entao
+        positivos <- positivos + 1
+    FimSe
+
+    Escreva("Devia para a vítima? (S ou N): ")
+    Leia(resposta)
+    Se (resposta = 'S') ou (resposta = 's') Entao
+        positivos <- positivos + 1
+    FimSe
+
+    Escreva("Já trabalhou com a vítima? (S ou N): ")
+    Leia(resposta)
+    Se (resposta = 'S') ou (resposta = 's') Entao
+        positivos <- positivos + 1
+    FimSe
+
+    Se (positivos < 2) Entao
+        Escreva("Inocente")
+    Senao Se (positivos = 2) Entao
+        Escreva("Suspeita")
+    Senao Se (positivos < 5) Entao
+        Escreva("Cúmplice")
+    Senao
+        Escreva("Assassino")
+    FimSe
+Fimalgoritmo
+
+
+## Resposta.6
+
+Algoritmo "Calcula_Media_Aprovacao"
+Var
+    nota1, nota2, media: Real
+Inicio
+    Escreva("Digite a primeira nota: ")
+    Leia(nota1)
+    Escreva("Digite a segunda nota: ")
+    Leia(nota2)
+
+    media <- (nota1 + nota2) / 2.0
+
+    Se (media = 10) Entao
+        Escreva("Aprovado com Distinção")
+    Senao Se (media >= 7) Entao
+        Escreva("Aprovado")
+    Senao
+        Escreva("Reprovado")
+    FimSe
+Fimalgoritmo
+
+## Resposta.7
+
+Algoritmo "Caixa_Eletronico"
+Var
+    valor, cem, cinquenta, dez, cinco, um: Inteiro
+Inicio
+    Escreva("Digite o valor a ser sacado (entre 10 e 600): ")
+    Leia(valor)
+
+    Se (valor < 10) ou (valor > 600) Entao
+        Escreva("Valor inválido!")
+    Senao
+        cem <- valor Div 100
+        valor <- valor - (cem * 100)
+
+        cinquenta <- valor Div 50
+        valor <- valor - (cinquenta * 50)
+
+        dez <- valor Div 10
+        valor <- valor - (dez * 10)
+
+        cinco <- valor Div 5
+        valor <- valor - (cinco * 5)
+
+        um <- valor
+
+        Se (cem > 0) Entao
+            Escreva("\n", cem, " nota(s) de cem")
+        FimSe
+        Se (cinquenta > 0) Entao
+            Escreva("\n", cinquenta, " nota(s) de cinquenta")
+        FimSe
+        Se (dez > 0) Entao
+            Escreva("\n", dez, " nota(s) de dez")
+        FimSe
+        Se (cinco > 0) Entao
+            Escreva("\n", cinco, " nota(s) de cinco")
+        FimSe
+        Se (um > 0) Entao
+            Escreva("\n", um, " nota(s) de um")
+        FimSe
+    FimSe
+Fimalgoritmo
+
+
+## Resposta.08
+
+Algoritmo "Calcula_Preco_Combustivel"
+Var
+    litros, preco: Real
+    combustivel: Caractere
+Inicio
+    Escreva("Digite quantos litros você quer abastecer: ")
+    Leia(litros)
+    
+    Escreva("Digite A para álcool ou G para gasolina: ")
+    Leia(combustivel)
+
+    Se (combustivel = 'A') ou (combustivel = 'a') Entao
+        preco <- litros * 1.9
+        Se (litros <= 20) Entao
+            preco <- preco - (1.9 * litros * 3 / 100)
+        Senao
+            preco <- preco - (1.9 * litros * 5 / 100)
+        FimSe
+    Senao Se (combustivel = 'G') ou (combustivel = 'g') Entao
+        preco <- litros * 2.5
+        Se (litros <= 20) Entao
+            preco <- preco - (2.5 * litros * 4 / 100)
+        Senao
+            preco <- preco - (2.5 * litros * 6 / 100)
+        FimSe
+    FimSe
+
+    Escreva("O preço a pagar é R$", preco:2)
+Fimalgoritmo
