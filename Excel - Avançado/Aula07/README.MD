@@ -33,6 +33,7 @@ A função `CONT.VALORES` conta **o número de células não vazias** em um inte
 ## 📌 Sintaxe
 ```excel
 CONT.VALORES(intervalo)
+```
 
 
 ## 📝 Exemplo Prático
@@ -50,6 +51,7 @@ Se usarmos a seguinte fórmula:
 
 ```excel
 =CONT.VALORES(A1:C4)
+```
 
 
 -- O Excel retornará 8, pois há 8 células preenchidas (incluindo números, textos e datas), ignorando apenas as células vazias.
