@@ -22,3 +22,34 @@ Exemplo: Criar uma automação para importar e organizar dados.
 
 ---
 
+# 📊 Função CONT.VALORES no Excel
+
+## 📌 O que é a função CONT.VALORES?
+
+A função `CONT.VALORES` conta **o número de células não vazias** em um intervalo, independentemente do tipo de dado (texto, número, data, etc.).
+
+---
+
+## 📌 Sintaxe
+```excel
+CONT.VALORES(intervalo)
+
+
+## 📝 Exemplo Prático
+
+Imagine que você tem a seguinte tabela no Excel:
+
+| A       | B        | C        |
+|---------|---------|----------|
+| João    | 5000    | 15/03/24 |
+| Maria   |         | 20/03/24 |
+| Carlos  | 6000    |          |
+|         | 5500    | 25/03/24 |
+
+Se usarmos a seguinte fórmula:
+
+```excel
+=CONT.VALORES(A1:C4)
+
+
+-- O Excel retornará 8, pois há 8 células preenchidas (incluindo números, textos e datas), ignorando apenas as células vazias.
