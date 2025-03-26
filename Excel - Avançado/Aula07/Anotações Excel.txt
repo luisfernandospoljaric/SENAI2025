@@ -1,0 +1,34 @@
+- Criei um formulário com o titulo Cadastro de Eventos.
+- Crie os campos a serem preenchidos: Nome, Data, E-mail e Sexo.
+- Formate com bordas e os campos.
+- para tirar as linhas da tabela toda, vá para Exibir / Desmarque Linhas de Grade.
+
+- Vá para Inserir / Formas / Retângulo arredondado.
+- Desenhe como se fosse um botão de Cadastrar.
+- Esse botão ficará responsável pela macro.
+
+Vinculo de referência
+- na parte abaixo do formulário cri os campos, nome, data, email e sexo.
+- Clique nas células a baixo e faça o vinculo dos campos do formulário
+- Clique no campo de data na referência, Aba Página inicial / Data Apreviada
+
+- No formulário clique na célula responsável pelo sexo. Vá na Aba DADOS.
+- Validação de Dados / Permitir = Lista / Fonte = M;F
+
+--------------------------------------------------------------------------
+- Crie um sub-planilha chamada Dados. Copiei o Cabelhaço na planilha de cadados e cole na de dados.
+- Nessa planilha, devesse grava o que foi no cadastro e clicado no botão. Com isso precisa gravar nas colunas corretas
+e pular uma linha quando for gravar.
+
+Gravando a Macro:
+- Vá em exibir / Macro / Gravar Macro.
+- Altere o nome para o desejado.
+- Voltei para a tela de Cadastro e comece a gravar a macro.
+- Vá para a Base, selecione a linha 2, botão direito e inserir.
+- Volte para a cadastro, copiei as linhas das informações. Pagina inicial - Copiar.
+- vá para a tela de dados, selecione a primeira célula da linha nova, pagina inicial/ colar especial/ valores e formato.
+- clique na primeira celular e pare a gravação.
+- Vá no botão criado, botão direito, inserir macro e selecione a que foi gravada.
+
+----------------------------------------------------------------------------------------------------------------------------
+Crie um botão Limpar e faça o mesmo só que a macro deve excluir os dados do formulário.
