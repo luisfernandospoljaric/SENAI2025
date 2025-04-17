@@ -20,7 +20,7 @@ TotalVendas = SUM(Vendas[ValorTotal])
 ```
 Retorna a soma de todos os valores da coluna ValorTotal.
 
-## 📌 1. `Divide()`
+## 📌 2. `Divide()`
 
 **Objetivo:**  Realiza uma divisão segura entre dois valores. Evita erros de divisão por zero.
 
@@ -34,4 +34,28 @@ DIVIDE(numerador, denominador, [valor alternativo])
 MargemLucro = DIVIDE(Vendas[Lucro], Vendas[Receita], 0)
 ```
 Se Receita for zero, o resultado será 0 (valor alternativo).
+
+## 📌 3. `AVERAGE()`
+
+**Objetivo:**Calcula a média dos valores de uma coluna.
+
+**Sintaxe:**
+```dax
+AVERAGE(Tabela[Coluna])
+```
+
+**Exemplo:**
+```dax
+MediaVendas = AVERAGE(Vendas[ValorTotal])
+```
+Retorna a média dos valores da coluna ValorTotal.
+
+## ✅ Resumo Rápido
+
+| Função      | Para quê serve?                | Cuidados                         |
+|-------------|--------------------------------|----------------------------------|
+| `SUM()`     | Soma valores de uma coluna     | Apenas colunas numéricas         |
+| `DIVIDE()`  | Divide com segurança           | Evita erro de divisão por zero   |
+| `AVERAGE()` | Calcula a média de uma coluna  | Ignora valores nulos             |
+
 
