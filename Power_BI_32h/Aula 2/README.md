@@ -18,13 +18,13 @@
 - Para esta atividade vamos usar como fundo o arquivo **./ilustracoes/fundo.png**
 
 ## Segue um modelo de Layout/Esboço para utilizar-mos
-![Fundo](./ilustrações/fundo.png)
+![Fundo](./Ilustrações/fundo.png)
 
 ## Print da planilha do Excel com os dados brutos
-![Fonte de dados](./ilustrações/dados.png)
+![Fonte de dados](./Ilustrações/dados.png)
 
 ## Criar um painel de visualização (DashBoard) semelhante ao da imagem a seguir:
-![Dashboard](./ilustrações/dashboard.png)
+![Dashboard](./Ilustrações/dashboard.png)
 OBS: Parque o gráfico de Mapas funcione, será necessário **habilitar a exibição de mapas**
 
 ## Atividade 02
@@ -35,7 +35,7 @@ OBS: Parque o gráfico de Mapas funcione, será necessário **habilitar a exibi�
     - Gráfico de mapas
     - Gráfico de pizza
 - **Desafio:** Realizando análise com cálculos DAX, crie uma coluna chamada Comissão valendo 3% do preço.
-- ![Objetivo do exercício](./ilustrações/execicio.png)
+- ![Objetivo do exercício](./Ilustrações/execicio.png)
 
 ## Links
 - [Kaggle](https://www.kaggle.com/) Comunidade de Aprendizagem de Máquina e Inteligência Artificial
