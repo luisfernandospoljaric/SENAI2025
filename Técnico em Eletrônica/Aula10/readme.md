@@ -119,4 +119,4 @@
             - Conformidade com regulamentações de segurança cibernética, como o GDPR na União Europeia ou o HIPAA nos Estados Unidos, que estabelecem padrões mínimos de segurança e proteção de dados para organizações em determinados setores.
 
 ## Kahoot
-kahoot.it  
+[kahoot.it](https://kahoot.it/)  
