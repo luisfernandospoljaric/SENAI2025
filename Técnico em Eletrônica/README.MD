@@ -1,5 +1,9 @@
 # Curso Técnico em Eletrônica
 
+## Forms para encaminhar os certificados dos cursos Autoinstrucionais
+https://forms.gle/CMBmQjZa9sA7SGGv6
+
+
 ## Capacidades Básicas
 
 1. **Interagir com grupos diversos por meios digitais**  
