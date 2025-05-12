@@ -147,6 +147,11 @@ Descreva brevemente:
 - **Ferramentas utilizadas:**  
 - **Conclusão:**  
 
+
+# **APRESENTAÇÃO DIA 02/06**
+- Encaminhar o documento do word no e-mail luis.spoljaric@sp.senai.br
+
+- E-mail deve contar ASSUNTO E CORPO.
  
 
 
