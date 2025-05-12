@@ -58,13 +58,9 @@ Na prática, é como um “discurso de venda” da sua ideia, produto ou serviç
 
 ### 📌 Estrutura básica de um bom pitch:
 - Problema: Qual é o problema ou necessidade que você identificou?
-
 - Solução: Qual é a sua proposta para resolver esse problema?
-
 - Diferencial: O que torna sua ideia única?
-
 - Público-alvo: Para quem é essa solução?
-
 - Chamada para ação: O que você espera do público? (apoio, investimento, aprovação?)
 
 ### 📌 Estrutura básica de um vídeo:
@@ -91,6 +87,67 @@ Na prática, é como um “discurso de venda” da sua ideia, produto ou serviç
 - Destaque um aprendizado ou reflexão final.
 - Agradeça e se despeça de forma leve.
 
+
+
+# Apresentação de Projeto – Tecnologia da Informação - Documento Word
+
+**Instituição:** SENAI  
+**Curso:** Técnico em Eletrônica  
+**Disciplina:** Tecnologia da Informação  
+**Professor:** [Nome do professor]  
+**Grupo:** [Número do grupo ou nomes dos integrantes]  
+**Tipo de Apresentação:** Pitch / Podcast / Vídeo  
+**Data:** [DD/MM/AAAA]
+
+---
+
+## 🎯 Título da Apresentação
+
+**Exemplo:** Sistema de Monitoramento de Energia Residencial com IoT
+
+---
+
+## 📝 Introdução
+
+Descreva brevemente:
+- O tema do trabalho  
+- O objetivo da apresentação  
+- A importância do tema para o curso de eletrônica  
+
+---
+
+## 📚 Estrutura da Apresentação
+
+### Se for um **Pitch**:
+- **Problema identificado:**  
+- **Solução proposta:**  
+- **Público-alvo:**  
+- **Inovação/Diferencial:**  
+- **Conclusão e chamada para ação:**  
+
+---
+
+### Se for um **Podcast**:
+- **Nome do episódio:**  
+- **Participantes (e função):**  
+- **Tema central:**  
+- **Tópicos discutidos:**  
+- **Conclusão e aprendizado final:**  
+
+---
+
+### Se for um **Vídeo**:
+- **Tema do vídeo:**  
+- **Participantes:**  
+- **Etapas do vídeo:**  
+  - Abertura  
+  - Explicação  
+  - Demonstração  
+  - Dica final  
+- **Ferramentas utilizadas:**  
+- **Conclusão:**  
+
+ 
 
 
 
