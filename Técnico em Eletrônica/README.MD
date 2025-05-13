@@ -29,10 +29,7 @@
     - Segurança no Trabalho
 - 3 Para se matricular nos cursos acima caso não esteja matriculado acessar **[SENAI Jaguariúna](https://sp.senai.br/cursos?unidade=513)** e pesquisar o curso
 - 4 Se tiver dificuldades de acesso, senha, clique **[Tutorial de como acessar o Portal EAD](https://ead.sp.senai.br/tutorial/comoacessar/)**
-- 5 Enviar os certificados (Print ou PDF) neste formulário **[FORMS](https://forms.gle/STMxikkU8qVfLuEb8)**
-
-## Forms para encaminhar os certificados dos cursos Autoinstrucionais
-https://forms.gle/CMBmQjZa9sA7SGGv6
+- 5 Enviar os certificados (Print ou PDF) neste formulário **[FORMS](https://forms.gle/CMBmQjZa9sA7SGGv6)**
 
 ## Capacidades Básicas
 
