@@ -1,8 +1,38 @@
 # Curso Técnico em Eletrônica
 
+## E-mail Educacional
+
+| Nome                                               | E-mail                                 |
+|----------------------------------------------------|----------------------------------------|
+| Bruno Vitorio Silveira de Caputo                   | bruno.caputo@senaisp.edu.br            |
+| Felipe Antonio Tavares Pontes                      | felipe.pontes6@senaisp.edu.br          |
+| Gabriel Figueiredo da Conceição                    | gabriel.conceicao14@senaisp.edu.br     |
+| Gabriel Gomes Mota                                 | gabriel.mota16@senaisp.edu.br          |
+| Henrique Vieira Batista                            | henrique.batista9@senaisp.edu.br       |
+| JULIA BEATRIZ DIAS MARTILIANO                      | julia.martiliano@senaisp.edu.br        |
+| LARISSA GABRIELLY TERENZIO DA SILVA                | larissa.silva263@senaisp.edu.br        |
+| LÍVIA GABRIELE DE LIMA PILON                       | livia.pilon@senaisp.edu.br             |
+| Mariane Arengue Silva                              | mariane.silva33@senaisp.edu.br         |
+| Matheus Henrique dos Santos Soares                 | matheus.soares63@senaisp.edu.br        |
+| RAFAEL CESAR NEVES                                 | rafael.neves19@senaisp.edu.br          |
+| Raul Silva Vasconcelos                             | raul.vasconcelos2@senaisp.edu.br       |
+| Renan Pierno                                        | renan.pierno@senaisp.edu.br            |
+| Sophia Trivinho Moreno de Freitas                  | sophia.freitas7@senaisp.edu.br         |
+| Vitor Henrique Muniz de Souza                      | vitor.souza94@senaisp.edu.br           |
+
+## Competências transversais - Cursos autoinstitucionais
+- 1 Acessar o portal **[EAD](https://ead.sp.senai.br)**
+- 2 Verificar se está matriculado em algum curso e completar todos Os que estiver matriculado.
+- Cursos a fazer:
+    - Ética na Inteligência Artificial
+    - Excel Básico
+    - Segurança no Trabalho
+- 3 Para se matricular nos cursos acima caso não esteja matriculado acessar **[SENAI Jaguariúna](https://sp.senai.br/cursos?unidade=513)** e pesquisar o curso
+- 4 Se tiver dificuldades de acesso, senha, clique **[Tutorial de como acessar o Portal EAD](https://ead.sp.senai.br/tutorial/comoacessar/)**
+- 5 Enviar os certificados (Print ou PDF) neste formulário **[FORMS](https://forms.gle/STMxikkU8qVfLuEb8)**
+
 ## Forms para encaminhar os certificados dos cursos Autoinstrucionais
 https://forms.gle/CMBmQjZa9sA7SGGv6
-
 
 ## Capacidades Básicas
 
@@ -53,23 +83,3 @@ https://forms.gle/CMBmQjZa9sA7SGGv6
 ---
 
 > Este repositório reúne os tópicos essenciais do Curso Técnico em Eletrônica, incluindo competências técnicas e socioemocionais, para o desenvolvimento de profissionais preparados para os desafios da área. 🚀
-
-## E-mail Educacional
-
-| Nome                                               | E-mail                                 |
-|----------------------------------------------------|----------------------------------------|
-| Bruno Vitorio Silveira de Caputo                   | bruno.caputo@senaisp.edu.br            |
-| Felipe Antonio Tavares Pontes                      | felipe.pontes6@senaisp.edu.br          |
-| Gabriel Figueiredo da Conceição                    | gabriel.conceicao14@senaisp.edu.br     |
-| Gabriel Gomes Mota                                 | gabriel.mota16@senaisp.edu.br          |
-| Henrique Vieira Batista                            | henrique.batista9@senaisp.edu.br       |
-| JULIA BEATRIZ DIAS MARTILIANO                      | julia.martiliano@senaisp.edu.br        |
-| LARISSA GABRIELLY TERENZIO DA SILVA                | larissa.silva263@senaisp.edu.br        |
-| LÍVIA GABRIELE DE LIMA PILON                       | livia.pilon@senaisp.edu.br             |
-| Mariane Arengue Silva                              | mariane.silva33@senaisp.edu.br         |
-| Matheus Henrique dos Santos Soares                 | matheus.soares63@senaisp.edu.br        |
-| RAFAEL CESAR NEVES                                 | rafael.neves19@senaisp.edu.br          |
-| Raul Silva Vasconcelos                             | raul.vasconcelos2@senaisp.edu.br       |
-| Renan Pierno                                        | renan.pierno@senaisp.edu.br            |
-| Sophia Trivinho Moreno de Freitas                  | sophia.freitas7@senaisp.edu.br         |
-| Vitor Henrique Muniz de Souza                      | vitor.souza94@senaisp.edu.br           |
