@@ -76,6 +76,27 @@ int main() {
 ✅ Utilize indentação para facilitar a leitura do código.
 ✅ Você pode aninhar estruturas if dentro de outras, se necessário.
 
+# Operadores Aritméticos e Lógicos em C
+
+## ✅ Operadores Aritméticos
+
+| Operador | Descrição           | Exemplo        | Resultado      |
+|----------|---------------------|----------------|----------------|
+| `+`      | Adição              | `5 + 3`        | `8`            |
+| `-`      | Subtração           | `10 - 4`       | `6`            |
+| `*`      | Multiplicação       | `2 * 6`        | `12`           |
+| `/`      | Divisão             | `8 / 2`        | `4`            |
+| `%`      | Módulo (resto)      | `10 % 3`       | `1`            |
+
+## ✅ Operadores Lógicos
+
+| Operador | Nome                | Descrição                                   | Exemplo               | Resultado      |
+|----------|---------------------|---------------------------------------------|------------------------|----------------|
+| `&&`     | E lógico (AND)      | Verdadeiro se ambos os operandos forem verdadeiros | `(5 > 2 && 4 > 1)` | `true (1)`     |
+| `||`     | OU lógico (OR)      | Verdadeiro se pelo menos um operando for verdadeiro | `(5 < 2 || 4 > 1)` | `true (1)`     |
+| `!`      | NÃO lógico (NOT)    | Inverte o valor lógico                      | `!(5 > 2)`            | `false (0)`    |
+
+
 # Exercicios:
 
 ## Fáceis
