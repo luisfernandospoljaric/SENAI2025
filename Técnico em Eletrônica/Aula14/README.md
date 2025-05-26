@@ -93,7 +93,7 @@ int main() {
 | Operador | Nome                | Descrição                                   | Exemplo               | Resultado      |
 |----------|---------------------|---------------------------------------------|------------------------|----------------|
 | `&&`     | E lógico (AND)      | Verdadeiro se ambos os operandos forem verdadeiros | `(5 > 2 && 4 > 1)` | `true (1)`     |
-| `||`     | OU lógico (OR)      | Verdadeiro se pelo menos um operando for verdadeiro | `(5 < 2 || 4 > 1)` | `true (1)`     |
+| ||     | OU lógico (OR)      | Verdadeiro se pelo menos um operando for verdadeiro | `(5 < 2 || 4 > 1)` | `true (1)`     |
 | `!`      | NÃO lógico (NOT)    | Inverte o valor lógico                      | `!(5 > 2)`            | `false (0)`    |
 
 
