@@ -188,3 +188,86 @@ int main() {
 }
 ```
 
+## 📚 Bibliotecas Mais Usadas na Linguagem C
+
+Em C, as bibliotecas fornecem funções prontas que facilitam a manipulação de entrada/saída, cálculos matemáticos, manipulação de strings, controle de tempo e muito mais. Abaixo estão as bibliotecas padrão mais utilizadas:
+
+---
+
+### 📥 `#include <stdio.h>`
+
+**Standard Input/Output**  
+Contém funções para entrada e saída de dados, como:
+
+- `printf()` – imprime dados no console
+- `scanf()` – lê dados do usuário
+- `fopen()`, `fclose()` – manipulação de arquivos
+
+---
+
+### 🧮 `#include <math.h>`
+
+**Funções matemáticas**  
+Permite usar funções como:
+
+- `pow(x, y)` – exponenciação (x elevado a y)
+- `sqrt(x)` – raiz quadrada
+- `sin(x)`, `cos(x)`, `tan(x)` – funções trigonométricas
+- `log(x)` – logaritmo natural
+
+> ⚠️ Necessário compilar com `-lm` (ex: `gcc programa.c -lm`)
+
+---
+
+### 🧵 `#include <stdlib.h>`
+
+**Utilitários gerais da linguagem**
+
+- `malloc()`, `calloc()` – alocação dinâmica de memória
+- `free()` – libera memória alocada
+- `rand()` – gera número aleatório
+- `exit()` – finaliza o programa
+
+---
+
+### 🧠 `#include <string.h>`
+
+**Manipulação de strings (cadeias de caracteres)**
+
+- `strlen()` – comprimento da string
+- `strcpy()` – copia uma string
+- `strcat()` – concatena strings
+- `strcmp()` – compara strings
+
+---
+
+### ⏰ `#include <time.h>`
+
+**Manipulação de data e hora**
+
+- `time()` – retorna o tempo atual em segundos
+- `clock()` – mede tempo de execução
+- `localtime()` – converte para data/hora local
+- `strftime()` – formata data/hora
+
+---
+
+### 👌 Outras Bibliotecas Comuns
+
+| Biblioteca         | Descrição                                    |
+|--------------------|----------------------------------------------|
+| `<ctype.h>`        | Testes e conversões de caracteres (`toupper`, `isdigit`) |
+| `<limits.h>`       | Constantes relacionadas a limites de tipos numéricos |
+| `<float.h>`        | Limites de precisão para tipos `float` e `double` |
+| `<stdbool.h>`      | Suporte ao tipo `bool` (verdadeiro/falso)    |
+| `<assert.h>`       | Testes de afirmação durante a execução (`assert()`) |
+
+---
+
+### 🧠 Dica
+
+Sempre verifique qual biblioteca possui as funções que você deseja usar. Consultar a [documentação oficial do C](https://en.cppreference.com/w/c/header) pode ajudar bastante!
+
+---
+
+
