@@ -1,6 +1,4 @@
-# Aula 15
-
-## Revisão para Prova.
+# Aula 15 - Revisão para Prova.
 
 # Indústria 4.0 – Resumo
 
