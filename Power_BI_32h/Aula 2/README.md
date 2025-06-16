@@ -1,4 +1,10 @@
 # Aula02 - DashBoard
+
+## LINK PARA ENVIO DA ATIVIDADE:
+
+https://forms.gle/kBf1byJEuE12GC6F6
+
+
 ## Visualizações com diversas fontes de dados
 - Dados não estruturados Excel
 - Dados estruturados CSV
