@@ -60,11 +60,9 @@
 
 ### 1. Inserir uma tabela
 - Acesse: **Inserir → Tabela** e arraste para selecionar o número desejado de colunas e linhas.  
-  ![Inserir Tabela](link-para-imagem-1)
 
 ### 2. Aplicar estilos à tabela
 - Selecione a tabela e vá em **Design → Estilos de Tabela** para escolher um visual predefinido.  
-  ![Estilos de Tabela](link-para-imagem-2)
 
 ### 3. Inserir/Remover Linhas ou Colunas
 - Dentro da tabela, use **Layout → Inserir** (Acima, Abaixo, à Esquerda, à Direita) ou **Excluir**.
