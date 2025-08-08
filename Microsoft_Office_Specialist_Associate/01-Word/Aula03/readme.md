@@ -81,16 +81,16 @@
 
 ### 1. Criar listas com marcadores ou numeração
 - Use os botões **Marcadores** ou **Numeração** na guia **Página Inicial**. Geralmente, digite `*` ou `1.` seguido de espaço para iniciar automaticamente.  
-  :contentReference[oaicite:5]{index=5}
+  
 
 ### 2. Personalizar listas
 - **Marcadores personalizados**: Guia **Página Inicial → Marcadores → Definir Novo Marcador**, escolha símbolo ou imagem.  
 - **Numeração personalizada**: Guia **Numeração → Definir Novo Formato de Número** para mudar estilo, formato ou fonte.  
-  :contentReference[oaicite:6]{index=6}
+  
 
 ### 3. Listas multinível
 - Use **Lista Multinível** ou pressione `Tab` / `Shift + Tab` para navegar entre níveis.  
-  :contentReference[oaicite:7]{index=7}
+  
 
 ---
 
@@ -99,7 +99,7 @@
 1. Adicione legendas às tabelas ou figuras (**Referências → Inserir Legenda**).  
 2. Depois, na posição desejada, vá em **Referências → Inserir Índice de Ilustrações** para criar a lista automaticamente.  
 3. Para atualizações (se inserir/remover itens), selecione a lista e use **Atualizar Campo** ou pressione **F9**.  
-:contentReference[oaicite:8]{index=8}
+
 
 ---
 
