@@ -15,10 +15,11 @@ Crie um documento no Word com o título **"Meu Animal Favorito"** e siga as inst
    - **Negrito**
    - Cor da fonte: **Azul**
 4. No segundo parágrafo, escreva um pequeno texto (3 a 5 linhas) falando sobre o seu animal favorito.  
-5. Justifique o texto.  
+5. Justifique o texto.  (Aba página inicial, lembrando que deixando o mouse em cima das opções ele mostra o que cada um faz)
 6. Insira uma imagem do animal (pode ser da internet ou do seu computador).  
 7. Coloque uma borda simples ao redor da imagem.  
 8. Salve o documento com o nome **Animal_Favorito.docx** na pasta **Documentos**.
+9. Crie Marcadores com os pontos positivos e negativos de ter um animal de estimação.
 
 ---
 
