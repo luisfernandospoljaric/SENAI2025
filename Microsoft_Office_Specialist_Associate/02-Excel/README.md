@@ -24,6 +24,21 @@ Excel permite trabalhar com grandes volumes de dados de forma estruturada e din�
 - **Macros e VBA**: automação de processos repetitivos.
 - **Integração com Power BI e outras ferramentas**.
 
+## 📌 Exemplos de Fórmulas Úteis
+
+| Fórmula                     | Descrição                                                                 |
+|----------------------------|---------------------------------------------------------------------------|
+| `=SOMA(A1:A10)`            | Soma os valores das células de A1 até A10.                                |
+| `=MÉDIA(B2:B12)`           | Calcula a média dos valores entre B2 e B12.                              |
+| `=SE(C2>=7;"Aprovado";"Reprovado")` | Verifica se o valor em C2 é maior ou igual a 7 e retorna "Aprovado" ou "Reprovado". |
+| `=CONT.VALORES(D1:D100)`   | Conta quantas células não estão vazias no intervalo D1 a D100.           |
+| `=PROCV("João";A2:B100;2;FALSO)` | Procura o nome "João" na primeira coluna do intervalo e retorna o valor da segunda coluna correspondente. |
+| `=CONCATENAR(A1;" ";B1)`   | Junta os valores das células A1 e B1 com um espaço entre eles.           |
+| `=HOJE()`                  | Retorna a data atual.                                                    |
+| `=MÁXIMO(E1:E50)`          | Retorna o maior valor do intervalo E1 a E50.                             |
+| `=MÍNIMO(E1:E50)`          | Retorna o menor valor do intervalo E1 a E50.                             |
+| `=ARRED(D2;0)`             | Arredonda o valor da célula D2 para o inteiro mais próximo.              |
+
 ## 📦 Aplicações Comuns
 
 - **Controle financeiro** pessoal ou empresarial.
