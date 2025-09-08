@@ -70,13 +70,78 @@ int main(){
 
 1 - Faça um Programa que peça um número e então mostre a mensagem O número informado foi [número].
 
+```c
+#include <stdio.h>
+
+int main() {
+    int numero;
+    printf("Digite um numero: ");
+    scanf("%d", &numero);
+    printf("O numero informado foi %d\n", numero);
+    return 0;
+}
+
+```
+
 2 - Faça um Programa que converta metros para centímetros.
 
+```c
+#include <stdio.h>
+
+int main() {
+    float metros, centimetros;
+    printf("Digite o valor em metros: ");
+    scanf("%f", &metros);
+    centimetros = metros * 100;
+    printf("%.2f metros equivalem a %.2f centimetros\n", metros, centimetros);
+    return 0;
+}
+```
+
 3 - Faça um Programa que peça o raio de um círculo, calcule e mostre sua área.
+```c
+#include <stdio.h>
+#include <math.h>
+
+int main() {
+    float raio, area;
+    printf("Digite o raio do circulo: ");
+    scanf("%f", &raio);
+    area = M_PI * pow(raio, 2); // M_PI é a constante de PI
+    printf("A area do circulo de raio %.2f eh: %.2f\n", raio, area);
+    return 0;
+}
+``` 
 
 4 - Faça um Programa que calcule a área de um quadrado, em seguida mostre o dobro desta área para o usuário.
+```c
+#include <stdio.h>
+
+int main() {
+    float lado, area, dobro;
+    printf("Digite o valor do lado do quadrado: ");
+    scanf("%f", &lado);
+    area = lado * lado;
+    dobro = area * 2;
+    printf("A area do quadrado eh: %.2f\n", area);
+    printf("O dobro da area eh: %.2f\n", dobro);
+    return 0;
+}
+```
 
 5 - Faça um Programa que peça a temperatura em graus Celsius, transforme e mostre em graus Farenheit.
+```c
+#include <stdio.h>
+
+int main() {
+    float celsius, fahrenheit;
+    printf("Digite a temperatura em graus Celsius: ");
+    scanf("%f", &celsius);
+    fahrenheit = (celsius * 9 / 5) + 32;
+    printf("%.2f graus Celsius equivalem a %.2f graus Fahrenheit\n", celsius, fahrenheit);
+    return 0;
+}
+```
 
 
 ## Exercicios parte 2:
