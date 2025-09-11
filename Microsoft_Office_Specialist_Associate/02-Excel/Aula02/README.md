@@ -6,6 +6,6 @@
 - Faça uma planilha de de controle financeiro, onde você tem um valor **X** de salário e um montante de contas a pagar.
 Siga o modelo da imagem acima.
 
-- Podem aproveitar e utilizar esse exercicio para fazer o controle financeiro de vocês. E tudo que sobrar façam uma soba e guardem em alguma célular com o nome de **INVESTIMENTO**.
+- Podem aproveitar e utilizar esse exercicio para fazer o controle financeiro de vocês. E tudo que sobrar façam uma soma e guardem em alguma célular com o nome de **INVESTIMENTO**.
 
 **Obs:** o exercício da para ser feito com todas as fórmulas que já aprendemos até aqui.
