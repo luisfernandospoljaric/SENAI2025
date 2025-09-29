@@ -27,3 +27,4 @@ Obs.: Salário Bruto - Descontos = Salário Líquido.
 
 # Formulário de entrega
 
+https://forms.gle/jXVBjBpTE2BBP3po6
