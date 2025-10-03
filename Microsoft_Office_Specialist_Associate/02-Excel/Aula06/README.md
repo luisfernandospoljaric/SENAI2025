@@ -27,5 +27,3 @@ Os três Japoneses, Sr. Suji Nakamura, Sra. Kanoco Maeda e o Sr. Fujimo Nakombi 
 |Pizza|10||R$ 10,00||
 ||||Total||
 
-## Entrega
-Ao concluir o desafio vamos copiar e colar as planilhas no estudo de caso que fizemos no Word.
