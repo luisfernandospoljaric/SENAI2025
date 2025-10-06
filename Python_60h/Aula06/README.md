@@ -30,6 +30,7 @@ Idoso (65 ou mais)
 7. Classificação de Triângulos: Escreva um programa que peça os três lados de um triângulo e determine se ele é equilátero, isósceles ou escaleno.
 
 8. Cálculo de IMC: Crie um programa que calcule o Índice de Massa Corporal (IMC) e classifique a pessoa conforme o IMC
+![IMC](imc.png)
 
 OBS: utilize a tabela passada na aula de portugol.
 
