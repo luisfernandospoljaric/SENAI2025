@@ -30,3 +30,5 @@ Todo conteudo esta nos slides.
 9. Crie uma lista com os números de 1 a 10 e remova todos os números pares.
 
 
+## Entrega
+https://forms.gle/fPNbosBZhg2pkFfw6
