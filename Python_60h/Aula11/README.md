@@ -271,3 +271,94 @@ while True:
 - [Tutoriais Pygame](https://www.pygame.org/wiki/tutorials)
 
 ---
+# Exercícios Básicos com Pygame
+
+Abaixo estão **10 exercícios práticos** para aprender a utilizar o **Pygame**
+
+---
+
+## 🧩 Exercício 1 — Criar uma Janela
+**Nível:** Fácil  
+**Objetivo:** Exibir uma janela simples com o nome “Meu Jogo”.
+
+🧠 **Dica:** Use `pygame.display.set_mode()` e `pygame.display.set_caption()`.
+
+---
+
+## 🧩 Exercício 2 — Mudar a Cor do Fundo
+**Nível:** Fácil  
+**Objetivo:** Preencha a janela com uma cor de fundo diferente (azul, verde, etc.).
+
+🧠 **Dica:** Use `tela.fill((r, g, b))`.
+
+---
+
+## 🧩 Exercício 3 — Desenhar Formas
+**Nível:** Fácil  
+**Objetivo:** Desenhe um retângulo, um círculo e uma linha na tela.
+
+🧠 **Dica:** Utilize `pygame.draw.rect()`, `pygame.draw.circle()` e `pygame.draw.line()`.
+
+---
+
+## 🧩 Exercício 4 — Criar um Quadrado Móvel
+**Nível:** Médio  
+**Objetivo:** Crie um quadrado que se move com as teclas do teclado (↑ ↓ ← →).
+
+🧠 **Dica:** Use `pygame.key.get_pressed()` e altere `x` e `y`.
+
+---
+
+## 🧩 Exercício 5 — Limitar Movimento
+**Nível:** Médio  
+**Objetivo:** Impedir que o quadrado saia da tela.
+
+🧠 **Dica:** Verifique se `x` e `y` estão dentro dos limites da tela antes de mover.
+
+---
+
+## 🧩 Exercício 6 — Colisão de Retângulos
+**Nível:** Médio  
+**Objetivo:** Crie dois quadrados e exiba uma mensagem quando colidirem.
+
+🧠 **Dica:** Use `colliderect()` entre dois `pygame.Rect`.
+
+---
+
+## 🧩 Exercício 7 — Animação Automática
+**Nível:** Médio  
+**Objetivo:** Faça um círculo se mover automaticamente pela tela e quicar nas bordas.
+
+🧠 **Dica:** Incremente a posição e inverta a direção ao atingir as bordas.
+
+---
+
+## 🧩 Exercício 8 — Detectar Clique do Mouse
+**Nível:** Médio  
+**Objetivo:** Mostre na tela a posição do clique do mouse.
+
+🧠 **Dica:** Use o evento `pygame.MOUSEBUTTONDOWN` e `pygame.mouse.get_pos()`.
+
+---
+
+## 🧩 Exercício 9 — Adicionar Som
+**Nível:** Médio  
+**Objetivo:** Toque um som ao apertar a tecla “Espaço”.
+
+🧠 **Dica:** Use `pygame.mixer.Sound('som.wav').play()`.
+
+---
+
+## 🧩 Exercício 10 — Mini Desafio: Jogo do Quadrado Vermelho
+**Nível:** Desafio  
+**Objetivo:** Crie um jogo simples onde:
+- O jogador (quadrado vermelho) se move com o teclado.  
+- Deve tocar o quadrado azul para ganhar pontos.  
+- Cada vez que toca, o azul muda de posição.  
+- Mostre o placar na tela.
+
+🧠 **Dica:** Use `colliderect()`, `random.randint()`, e `pygame.font.Font.render()` para o texto.
+
+---
+
+
