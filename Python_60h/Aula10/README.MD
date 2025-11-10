@@ -30,3 +30,7 @@ crie uma dicionário e peça ao usuário para acessar uma chave. Captura KeyErro
 
 9. Função com exceção personalizada.
 crie uma função que calcula a divisão e levanta uma exceção personalizada se o divisor for zero. Use Try e Except para capturá-la.
+
+---
+## Link para entrega
+https://forms.gle/9UoPxfZKqAhVQ6BC6
