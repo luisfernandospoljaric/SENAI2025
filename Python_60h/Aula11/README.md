@@ -264,14 +264,6 @@ while True:
 
 ---
 
-## Conclusão
-
-A **Pygame** é uma excelente ferramenta para quem quer **aprender lógica de programação**, **animação**, **interatividade** e **desenvolver jogos 2D**.  
-Com ela, é possível criar desde pequenos jogos educativos até protótipos mais complexos.
-
-
----
-
 ## 💡 Recursos
 
 - [Documentação oficial do Pygame](https://www.pygame.org/docs/)
