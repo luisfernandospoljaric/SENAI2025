@@ -28,4 +28,4 @@
 | Pedro Victor Millares Hereman | pedro.hereman@senaisp.edu.br |
 | Thiago Pereira Barbosa dos Santos | thiago.santos284@senaisp.edu.br |
 | Vinicius David Aparecido | vinicius.aparecido4@senaisp.edu.br |
-| Vitor Lucas da Costa | vitor.costa62@senaisp.edu.br|
+| Vitor Lucas da Costa | vitor.costa62@senaisp.edu.br |
