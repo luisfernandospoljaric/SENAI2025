@@ -29,3 +29,29 @@
 | Thiago Pereira Barbosa dos Santos | thiago.santos284@senaisp.edu.br |
 | Vinicius David Aparecido | vinicius.aparecido4@senaisp.edu.br |
 | Vitor Lucas da Costa | vitor.costa62@senaisp.edu.br |
+
+## E-mails Educacionais - Arthur Nogueira (Tarde)
+
+| Nome | Email |
+|------|-------|
+| Ana Clara Souza Alves | ana.alves139@senaisp.edu.br |
+| Bruna Soares de Jesus | bruna.jesus9@senaisp.edu.br |
+| Carlos Henrique Lopes Pereira | carlos.pereira69@senaisp.edu.br |
+| Cleiton Luis Tanck | cleiton.tanck@senaisp.edu.br |
+| Davi dos Santos Ferreira | davi.ferreira44@senaisp.edu.br |
+| Edilene Menezes Conceição Martins | edilene.martins@senaisp.edu.br |
+| Gilvan Soares da Rocha | gilvan.rocha2@senaisp.edu.br |
+| Giovana de Sousa Carneiro | giovana.carneiro4@senaisp.edu.br |
+| Gustavo Amorim Cunha | gustavo.cunha17@senaisp.edu.br |
+| Hyasmym Santos Nascimento | hyasmym.nascimento@senaisp.edu.br |
+| João Vitor Ferreira Lima | joao.lima283@senaisp.edu.br |
+| Leticia Vitoria da Rocha Alves | leticia.alves30@senaisp.edu.br |
+| Luana dos Santos Inocencio | luana.inocencio@senaisp.edu.br |
+| Lucas Daniel Mota Medeiros | lucas.medeiros14@senaisp.edu.br |
+| Mikael Souza Rosa | mikael.rosa@senaisp.edu.br |
+| Myrella Rocha Silva | myrella.silva5@senaisp.edu.br |
+| Raquel Santos Emboabas | raquel.emboabas@senaisp.edu.br |
+| Rayane Ribeiro da Silva | rayane.silva36@senaisp.edu.br |
+| Rayanne Pereira de Santana | rayanne.santana@senaisp.edu.br |
+| Taíne Santos de Almeida | taine.almeida@senaisp.edu.br |
+| Yuri Xavier da Silva | yuri.silva68@senaisp.edu.br |
